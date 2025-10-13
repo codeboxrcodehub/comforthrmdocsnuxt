@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 const currentDir = dirname(fileURLToPath(import.meta.url));
 
-//const base = process.env.NUXT_APP_BASE_URL || '/comforterpdocsnuxt/';
+//const base = process.env.NUXT_APP_BASE_URL || '/comforthrmdocsnuxt/';
 
 export default defineNuxtConfig({
     nitro: {
@@ -12,8 +12,8 @@ export default defineNuxtConfig({
         preset: process.env.PRESET,
     },
     app: {
-        //baseURL: '/comforterpdocsnuxt/'
-        //baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
+        //baseURL: '/comforthrmdocsnuxt/'
+        //baseURL: process.env.BASE_URL || '/comforthrmdocsnuxt/',
         baseURL: process.env.BASE_URL,
         head: {
             link: [
