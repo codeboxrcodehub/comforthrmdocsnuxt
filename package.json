@@ -3,10 +3,10 @@
   "type": "module",
   "version": "1.1.2",
   "packageManager": "pnpm@10.13.1",
-  "description": "Comfort ERP Documentation",
-  "author": "Comfort ERP Team <info@comforterp.com>",
+  "description": "Comfort HRM Documentation",
+  "author": "Comfort HRM Team <info@comforthrm.com>",
   "license": "MIT",
-  "homepage": "https://docs.comforterp.com/",
+  "homepage": "https://docs.comforthrm.com/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZTL-UwU/shadcn-docs-nuxt.git"

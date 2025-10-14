@@ -46,7 +46,7 @@ const appConfig = useAppConfig();
 const sidebarItems = computed(() => {
   const path = route.path.replace(/^\/+|\/+$/g, ''); // Remove leading/trailing slashes
 
-  const sidebarConfig = appConfig.comfortErpDocs?.sidebar || {};
+  const sidebarConfig = appConfig.comfortHrmDocs?.sidebar || {};
 
   // Normalize config keys too
   const normalizedConfig = Object.fromEntries(

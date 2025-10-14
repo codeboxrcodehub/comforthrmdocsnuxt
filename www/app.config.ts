@@ -1,10 +1,10 @@
 export default defineAppConfig({
-  comfortErpDocs: {
+  comfortHrmDocs: {
     site: {
-      name: 'Comfort ERP Documentation',
-      description: 'Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp.',
+      name: 'Comfort HRM Documentation',
+      description: 'Comfort HRM Documentation for Comfort HRM, Comfort Resume, Comfort Job, Comfort Job Application.',
       ogImage: '/seo_card.png',
-      ogImageComponent: 'ComfortErpDocs',
+      ogImageComponent: 'ComfortHrmDocs',
       ogImageColor: 'light',
       umami: {
         enable: true,
@@ -20,13 +20,13 @@ export default defineAppConfig({
     banner: {
       enable: false,
       showClose: true,
-      content: 'Welcome to **Comfort ERP Docs**',
+      content: 'Welcome to **Comfort HRM Docs**',
       to: '#',
       target: '_blank',
       border: true,
     },
     header: {
-      title: 'Comfort ERP Documentation',
+      title: 'Comfort HRM Documentation',
       showTitle: true,
       logo: {
         light: '/logo.png',
@@ -178,17 +178,17 @@ export default defineAppConfig({
         }, */
         {
           icon: 'lucide:twitter',
-          to: 'https://x.com/comforterpwp',
+          to: 'https://x.com/comforthrmwp',
           target: '_blank',
         },
         {
           icon: 'lucide:facebook',
-          to: 'https://www.facebook.com/comforterp/',
+          to: 'https://www.facebook.com/comforthrm/',
           target: '_blank',
         },
         {
           icon: 'lucide:youtube',
-          to: 'https://www.youtube.com/@comforterp',
+          to: 'https://www.youtube.com/@comforthrm',
           target: '_blank',
         },
         /* {
@@ -232,17 +232,17 @@ export default defineAppConfig({
       iconLinks: [
         {
           icon: 'lucide:twitter',
-          to: 'https://x.com/comforterpwp',
+          to: 'https://x.com/comforthrmwp',
           target: '_blank',
         },
         {
           icon: 'lucide:facebook',
-          to: 'https://www.facebook.com/comforterp/',
+          to: 'https://www.facebook.com/comforthrm/',
           target: '_blank',
         },
         {
           icon: 'lucide:youtube',
-          to: 'https://www.youtube.com/@comforterp',
+          to: 'https://www.youtube.com/@comforthrm',
           target: '_blank',
         },
         {

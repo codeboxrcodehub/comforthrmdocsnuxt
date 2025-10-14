@@ -28,7 +28,7 @@ const defaultConfig: DefaultConfig = {
   banner: {
     enable: false,
     showClose: true,
-    content: 'Welcome to **Comfort ERP Documentation**',
+    content: 'Welcome to **Comfort HRM Documentation**',
     to: '',
     target: '_blank',
     border: true,
@@ -160,7 +160,7 @@ const defaultConfig: DefaultConfig = {
 };
 
 export function useConfig() {
-  const appConfig = computed(() => useAppConfig()?.comfortErpDocs || {});
+  const appConfig = computed(() => useAppConfig()?.comfortHrmDocs || {});
 
   const { navKeyFromPath } = useContentHelpers();
   const { navigation, page } = useContent();

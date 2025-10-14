@@ -13,7 +13,7 @@ const appConfig = useAppConfig();
 
 // Get flattened list of all sidebar items (with both link and text) in order
 const sidebarItems = computed(() => {
-  const sidebarConfig = appConfig.comfortErpDocs?.sidebar || {};
+  const sidebarConfig = appConfig.comfortHrmDocs?.sidebar || {};
   const key = Object.keys(sidebarConfig).find(k => route.path.startsWith(k));
   if (!key) return [];
 

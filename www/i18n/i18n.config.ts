@@ -28,7 +28,7 @@ export default defineI18nConfig(() => ({
       'Create Issues': 'Create Issues',
 
       // Footer
-      'FOOTER_CREDIT': 'Made with ❤️ by [**ComfortERP Team**](https://comforterp.com/) · © 2025–present Comfort ERP',
+      'FOOTER_CREDIT': 'Made with ❤️ by [**ComfortHRM Team**](https://comforthrm.com/) · © 2025–present Comfort HRM',
       'Sponsor Me': 'Sponsor Me',
     },
     fr: {
