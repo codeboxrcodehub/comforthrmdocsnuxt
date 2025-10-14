@@ -46,6 +46,18 @@ export default defineAppConfig({
           target: '_self',
           showLinkIcon: false,
         },
+        {
+          title: 'Job',
+          to: '/comfortjob',
+          target: '_self',
+          showLinkIcon: false,
+        },
+        {
+          title: 'Job Application',
+          to: '/comfortjobapp',
+          target: '_self',
+          showLinkIcon: false,
+        },
       ],
       links: [
         {
@@ -64,6 +76,7 @@ export default defineAppConfig({
     },
     // Add sidebar configuration directly here
     sidebar: {
+
       '/comfortresume/': [
         {
           text: 'Comfort Accounting',
@@ -106,6 +119,77 @@ export default defineAppConfig({
           ],
         }
       ],
+
+      '/comfortjob/': [
+        {
+          text: 'Comfort Job',
+          collapsible: true,
+          items: [
+            { text: 'How to install', link: '/comfortjob/how-to-install' },
+            { text: 'How to Translate', link: '/comfortjob/how-to-translate' },
+            { text: 'Template Override', link: '/comfortjob/template-override' },
+            { text: 'Hooks and Filters', link: '/comfortjob/hooks-and-filters' },
+            { text: 'Code Samples', link: '/comfortjob/code-samples' },
+          ],
+        },
+        {
+          text: 'Shortcode',
+          collapsible: true,
+          items: [
+            { text: '9 Shortcodes', link: '/comfortjob/shortcodes' },
+          ],
+        },
+        {
+          text: 'Widgets',
+          collapsible: true,
+          items: [
+            { text: 'Classic Widgets', link: '/comfortjob/classic-widgets' },
+            { text: 'Elementor Widget', link: '/comfortjob/elementor-widgets' },
+            { text: 'Gutenberg Blocks', link: '/comfortjob/gutenberg-blocks' },
+          ],
+        },
+        {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortjob/user-guide/general' },
+            { text: 'Job Manager', link: '/comfortjob/user-guide/job-manager' },
+            { text: 'Settings Manager', link: '/comfortjob/user-guide/settings' },
+            { text: 'Company Manager', link: '/comfortjob/user-guide/company-manager' },
+            { text: 'Job Category', link: '/comfortjob/user-guide/job-category' },
+            { text: 'Job Type', link: '/comfortjob/user-guide/job-type' },
+            { text: 'Job Tags', link: '/comfortjob/user-guide/job-tags' },
+            { text: 'Tools Manager', link: '/comfortjob/user-guide/tools-manager' },
+            { text: 'Emails', link: '/comfortjob/user-guide/emails' },
+          ],
+        }
+      ],
+
+      '/comfortjobapp/': [
+        {
+          text: 'Comfort Job Application',
+          collapsible: true,
+          items: [
+            { text: 'How to install', link: '/comfortjobapp/how-to-install' },
+            { text: 'How to Translate', link: '/comfortjobapp/how-to-translate' },
+            { text: 'Template Override', link: '/comfortjobapp/template-override' },
+            { text: 'Hooks and Filters', link: '/comfortjobapp/hooks-and-filters' },
+            { text: 'Code Samples', link: '/comfortjobapp/code-samples' },
+          ],
+        },
+        {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortjobapp/user-guide/general' },
+            { text: 'Application Manager', link: '/comfortjobapp/user-guide/application-manager' },
+            { text: 'Settings Manager', link: '/comfortjobapp/user-guide/settings' },
+            { text: 'Tools Manager', link: '/comfortjobapp/user-guide/tools-manager' },
+            { text: 'Emails', link: '/comfortjobapp/user-guide/emails' },
+          ],
+        }
+      ],
+
     },
     main: {
       padded: true,
