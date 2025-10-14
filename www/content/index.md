@@ -1,80 +1,79 @@
 ---
-title: "Documentation for Comfort ERP Plugins for WordPress"
-description: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
+title: "Comfort HRM - Streamline your HR process. Simple, smart and scalable."
+description: "Comfort HRM - Streamline your HR process. Simple, smart and scalable. Comfort Job Board, Comfort Resume Builder, Comfort Job Application and more."
 
 ogType: "website"
-ogTitle: "Comfort ERP Documentation for WordPress"
-ogDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
-ogSiteName: "Comfort ERP Documentation"
+ogTitle: "Comfort HRM - Streamline your HR process. Simple, smart and scalable."
+ogDescription: "Comfort HRM - Streamline your HR process. Simple, smart and scalable. Comfort Job Board, Comfort Resume Builder, Comfort Job Application and more."
+ogSiteName: "Comfort HRM Documentation"
 ogImage: "/seo.png"
-ogUrl: "https://docs.comforterp.com"
+ogUrl: "https://docs.comforthrm.com"
 
 twitterCard: "website"
-twitterTitle: "Comfort ERP Documentation for WordPress"
-twitterDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
-twitterSite: "@ComfortERP"
+twitterTitle: "Comfort HRM - Streamline your HR process. Simple, smart and scalable."
+twitterDescription: "Comfort HRM - Streamline your HR process. Simple, smart and scalable. Comfort Job Board, Comfort Resume Builder, Comfort Job Application and more."
+twitterSite: "@ComfortHRM"
 twitterImage: "/seo.png"
-twitterUrl: "https://docs.comforterp.com"
+twitterUrl: "https://docs.comforthrm.com"
 
 fbAppId: "1249182889483061"
-keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort Inventory & Invoice Documentation, WordPress ERP, ERP solution"
+keywords: "Comfort HRM, Comfort Resume, Comfort Job, Comfort Job Application"
 ---
 
 ::hero-alt-custom
 ---
 actions:
   - name: Get Started
-    to: /comfortaccounting
-  - name: Try Comfort ERP Plugins
+    to: /comfortresume
+  - name: Try Comfort HRM Plugins
     variant: outline
-    to: https://comforterp.com/
+    to: https://comforthrm.com/
     target: _blank
 logo:
-    light: /comforterp_logo_brand_vertical.png
-    dark: /comforterp_logo_brand_vertical.png
-    alt: Comfort ERP Logo
+    light: /comforthrm_logo_brand_vertical.png
+    dark: /comforthrm_logo_brand_vertical.png
+    alt: Comfort HRM Logo
 ---
 
 #title
-Comfort ERP
+Comfort HRM
 #description
-Documentation for Comfort ERP plugins
+Documentation for Comfort HRM plugins
 #subtitle
-Accounting, Inventory & Invoice
+Resume, Job, Job Application
 ::
 
 ::features-section
 ---
 features:
 - icon:
-    light: /comfortaccounting_logo_black.png
-    dark: /comfortaccounting_logo_white.png
-    alt: Comfort Accounting logo
-  title: Comfort Accounting
-  details: Comprehensive Accounting solution for WordPress
-  link: /comfortaccounting
-  to: /comfortaccounting
+    light: /comfortresume_logo_black.png
+    dark: /comfortresume_logo_white.png
+    alt: Comfort Resume logo
+  title: Comfort Resume
+  details: Try Comfort HRM Plugins
+  link: /comfortresume
+  to: /comfortresume
 - icon:
-    light: /comfortinvoice_logo_black.png
-    dark: /comfortinvoice_logo_white.png
-    alt: Comfort Invoice logo
-  title: Comfort Inventory & Invoice
-  details: Invoice solution inside WordPress for SME business
-  link: /comfortinvoice
+    light: /comfortjob_logo_black.png
+    dark: /comfortjob_logo_white.png
+    alt: Comfort Job logo
+  title: Comfort Job
+  details: Making job posting easy!
+  link: /comfortjob
 - icon:
-    light: /comfortbookings_icon_black.svg
-    dark: /comfortbookings_icon_white.svg
-    alt: Comfort Bookings logo
-  title: Comfort Bookings
-  details: Bookings & Appointments system for SME business inside WordPress
-  link: /comfortbookings
+    light: /comfortjobapp_icon_black.png
+    dark: /comfortjobapp_icon_white.png
+    alt: Comfort Job App logo
+  title: Comfort Job App
+  details: Hassle free job application!
+  link: /comfortjobapp
 - icon:
-    light: /comfortevents_logo_black.svg
-    dark: /comfortevents_icon_white.svg
-    alt: Comfort Events logo
-  title: Comfort Events
-  details: A powerful event management plugin for WordPress.
-  link: /comfortevents
+    light: /comfortxyz_logo_black.png
+    dark: /comfortxyz_icon_white.png
+    alt: Comfort XYZ logo
+  title: Comfort XYZ
+  details: Coming soon!
 ---
 ::
 
@@ -83,5 +82,5 @@ features:
   <h1>🏀</h1>
   <h1>Contact Us</h1>
   <p>We are continuously updating this documentation but you may have custom query.</p>
-  <a href="https://comforterp.com/contact-us" target="_blank" class="btn">Contact us</a>
+  <a href="https://comforthrm.com/contact-us" target="_blank" class="btn">Contact us</a>
 </div>
