@@ -34,14 +34,6 @@
             <p class="text-muted-foreground mb-6 flex-1 leading-relaxed text-sm">
               {{ feature?.details || 'Feature description' }}
             </p>
-
-            <!-- <NuxtLink
-                :to="feature?.link || '#'"
-                class="inline-flex items-center text-sm font-medium text-primary hover:underline group/link"
-            >
-              Learn more
-              <Icon name="lucide:arrow-right" class="ml-1 h-4 w-4 transition-transform group-hover/link:translate-x-1" />
-            </NuxtLink> -->
           </CardContentCustom>
         </CardCustom>
       </div>
