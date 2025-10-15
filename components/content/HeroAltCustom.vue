@@ -49,12 +49,12 @@
     <div class="flex items-center justify-center order-first md:order-last">
       <div class="flex flex-col items-center gap-4">
         <div class="flex items-center justify-center rounded-2xl bg-muted/20">
-          <img
+          <NuxtImg
               :src="logo?.light"
               :alt="logo?.alt"
               class="h-80 w-80 object-contain dark:hidden"
           />
-          <img
+          <NuxtImg
               :src="logo?.dark || logo?.light"
               :alt="logo?.alt"
               class="hidden h-80 w-80 object-contain dark:block"

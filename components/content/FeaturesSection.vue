@@ -11,12 +11,12 @@
           <CardContentCustom class="flex flex-col items-center">
             <div class="mb-6 flex h-20 w-20 items-center justify-center rounded-2xl bg-primary/10 p-3 group-hover:bg-primary/20 transition-colors">
               <template v-if="feature?.icon">
-                <img
+                <NuxtImg
                     :src="feature.icon.light || '/placeholder-icon-light.png'"
                     :alt="feature.icon.alt || feature.title"
                     class="h-10 w-10 object-contain dark:hidden"
                 />
-                <img
+                <NuxtImg
                     :src="feature.icon.dark || feature.icon.light || '/placeholder-icon-dark.png'"
                     :alt="feature.icon.alt || feature.title"
                     class="hidden h-10 w-10 object-contain dark:block"
