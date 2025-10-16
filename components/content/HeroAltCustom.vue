@@ -29,7 +29,7 @@
         <ContentSlot :use="$slots.subtitle" unwrap="p" />
       </p>
 
-      <div class="flex w-full items-center justify-start gap-2 py-2">
+      <!-- <div class="flex w-full items-center justify-start gap-2 py-2">
         <NuxtLinkLocale
             v-for="(action, i) in actions"
             :key="i"
@@ -42,6 +42,22 @@
             <SmartIcon v-if="action.rightIcon" :name="action.rightIcon" class="ml-1" />
           </UiButton>
         </NuxtLinkLocale>
+      </div> -->
+
+      <div class="flex w-full items-center justify-start gap-2 py-2">
+        <UiButton
+            v-for="(action, i) in actions"
+            :key="i"
+            as="a"
+            :to="action.to"
+            :target="action.target"
+            :variant="action.variant"
+            size="sm"
+        >
+          <SmartIcon v-if="action.leftIcon" :name="action.leftIcon" class="mr-1" />
+          {{ action.name }}
+          <SmartIcon v-if="action.rightIcon" :name="action.rightIcon" class="ml-1" />
+        </UiButton>
       </div>
     </section>
 
