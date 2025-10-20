@@ -1,12 +1,24 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/how-to-translate"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "How to Translate Comfort Resume"
+description: "Learn how to translate Comfort Resume into multiple languages. Complete guide for multilingual setup, resume template localization, and creating custom translations for global candidate management."
+
+ogType: "article"
+ogTitle: "How to Translate Comfort Resume"
+ogDescription: "Learn how to translate Comfort Resume into multiple languages. Complete guide for multilingual setup, resume template localization, and creating custom translations for global candidate management."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/how-to-translate"
+
+twitterCard: "article"
+twitterTitle: "How to Translate Comfort Resume"
+twitterDescription: "Learn how to translate Comfort Resume into multiple languages. Complete guide for multilingual setup, resume template localization, and creating custom translations for global candidate management."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/how-to-translate"
+
+fbAppId: "1249182889483061"
+keywords: "translate Comfort Resume, multilingual resumes, resume translation, language localization, international resumes, translation files, custom languages, resume templates translation, localization guide, HR localization"
+
 ---
 # How to Translate
 

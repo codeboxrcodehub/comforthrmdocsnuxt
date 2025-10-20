@@ -1,13 +1,23 @@
 ---
-title: "Comfort Resume Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/user-guide/resume-manager"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Resume Manager User Guide for Comfort Resume"
+description: "Learn how to use the Resume Manager in Comfort Resume to manage candidate resumes, track applicants, update resume status, and handle bulk operations for efficient candidate management."
 
+ogType: "article"
+ogTitle: "Resume Manager User Guide for Comfort Resume"
+ogDescription: "Learn how to use the Resume Manager in Comfort Resume to manage candidate resumes, track applicants, update resume status, and handle bulk operations for efficient candidate management."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/user-guide/resume-manager"
+
+twitterCard: "article"
+twitterTitle: "Resume Manager User Guide for Comfort Resume"
+twitterDescription: "Learn how to use the Resume Manager in Comfort Resume to manage candidate resumes, track applicants, update resume status, and handle bulk operations for efficient candidate management."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/user-guide/resume-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume manager, manage resumes, candidate management, resume database, applicant tracking, resume status, bulk resume actions, candidate profiles, resume workflow, applicant management"
 ---
 
 ## Managing Resume Listings

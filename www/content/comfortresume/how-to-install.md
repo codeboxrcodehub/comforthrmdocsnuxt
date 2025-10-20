@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/how-to-install"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "How to Install Comfort Resume Plugin"
+description: "Follow our step-by-step guide to install and activate the Comfort Resume WordPress plugin. Learn both manual upload and admin panel methods for successful resume management system setup."
+
+ogType: "article"
+ogTitle: "How to Install Comfort Resume Plugin"
+ogDescription: "Follow our step-by-step guide to install and activate the Comfort Resume WordPress plugin. Learn both manual upload and admin panel methods for successful resume management system setup."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/how-to-install"
+
+twitterCard: "article"
+twitterTitle: "How to Install Comfort Resume Plugin"
+twitterDescription: "Follow our step-by-step guide to install and activate the Comfort Resume WordPress plugin. Learn both manual upload and admin panel methods for successful resume management system setup."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/how-to-install"
+
+fbAppId: "1249182889483061"
+keywords: "install Comfort Resume, resume plugin setup, WordPress installation, activation guide, manual installation, upload plugin, activate Comfort Resume, configuration steps, HR plugin setup"
 ---
 # How to Install
 

@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/gutenberg-blocks"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Gutenberg Blocks for Comfort Resume"
+description: "Learn how to use Comfort Resume Gutenberg blocks to display and manage resumes in the WordPress block editor. Create custom resume layouts with drag-and-drop blocks and patterns."
+
+ogType: "article"
+ogTitle: "Gutenberg Blocks for Comfort Resume"
+ogDescription: "Learn how to use Comfort Resume Gutenberg blocks to display and manage resumes in the WordPress block editor. Create custom resume layouts with drag-and-drop blocks and patterns."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/gutenberg-blocks"
+
+twitterCard: "article"
+twitterTitle: "Gutenberg Blocks for Comfort Resume"
+twitterDescription: "Learn how to use Comfort Resume Gutenberg blocks to display and manage resumes in the WordPress block editor. Create custom resume layouts with drag-and-drop blocks and patterns."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/gutenberg-blocks"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume Gutenberg blocks, block editor integration, resume blocks, WordPress blocks, candidate display blocks, application forms, resume listings, block patterns, resume management blocks"
 ---
 # Gutenberg Blocks
 

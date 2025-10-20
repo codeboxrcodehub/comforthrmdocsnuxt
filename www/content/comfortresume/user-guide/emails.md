@@ -1,13 +1,23 @@
 ---
-title: "Comfort Resume Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/user-guide/emails"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Emails User Guide for Comfort Resume"
+description: "Learn how to use the Emails system in Comfort Resume to automate candidate communication, customize email templates, and manage applicant notifications and interview scheduling."
 
+ogType: "article"
+ogTitle: "Emails User Guide for Comfort Resume"
+ogDescription: "Learn how to use the Emails system in Comfort Resume to automate candidate communication, customize email templates, and manage applicant notifications and interview scheduling."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/user-guide/emails"
+
+twitterCard: "article"
+twitterTitle: "Emails User Guide for Comfort Resume"
+twitterDescription: "Learn how to use the Emails system in Comfort Resume to automate candidate communication, customize email templates, and manage applicant notifications and interview scheduling."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/user-guide/emails"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume emails, candidate communication, email templates, automated emails, applicant notifications, interview scheduling, status updates, email customization, HR communications, candidate follow-up"
 ---
 
 ## Email System

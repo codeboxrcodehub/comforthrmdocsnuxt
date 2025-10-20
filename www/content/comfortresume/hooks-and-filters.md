@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/hooks-and-filters"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Hooks and Filters for Comfort Resume"
+description: "Complete developer reference for Comfort Resume hooks and filters. Extend and customize resume functionality with action hooks, filter hooks, and custom code examples for HR system integration."
 
+ogType: "article"
+ogTitle: "Hooks and Filters for Comfort Resume"
+ogDescription: "Complete developer reference for Comfort Resume hooks and filters. Extend and customize resume functionality with action hooks, filter hooks, and custom code examples for HR system integration."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/hooks-and-filters"
+
+twitterCard: "article"
+twitterTitle: "Hooks and Filters for Comfort Resume"
+twitterDescription: "Complete developer reference for Comfort Resume hooks and filters. Extend and customize resume functionality with action hooks, filter hooks, and custom code examples for HR system integration."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/hooks-and-filters"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume hooks, resume filters, WordPress hooks, custom resume functions, resume customization, developer guide, action hooks, filter hooks, resume data modification, extend resume functionality"
 ---
 
 # Hooks and Filters Documentation for ComfortResume & ComfortResumePro
