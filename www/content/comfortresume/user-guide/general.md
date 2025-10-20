@@ -1,13 +1,23 @@
 ---
-title: "Comfort Resume Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "Comfort Resume index keywords."
-url: "/resume/user-guide/general"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "General User Guide for Comfort Resume"
+description: "Get started with Comfort Resume general user guide. Learn basic navigation, essential features, and how to manage your resume and candidate system effectively in WordPress."
 
+ogType: "article"
+ogTitle: "General User Guide for Comfort Resume"
+ogDescription: "Get started with Comfort Resume general user guide. Learn basic navigation, essential features, and how to manage your resume and candidate system effectively in WordPress."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/user-guide/general"
+
+twitterCard: "article"
+twitterTitle: "General User Guide for Comfort Resume"
+twitterDescription: "Get started with Comfort Resume general user guide. Learn basic navigation, essential features, and how to manage your resume and candidate system effectively in WordPress."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/user-guide/general"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume user guide, getting started, resume basics, general guide, resume management overview, navigation guide, dashboard overview, basic features, resume system introduction"
 ---
 
 # Comfort Resume User Guide

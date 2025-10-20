@@ -17,7 +17,7 @@ const config = useConfig();
 const appConfig = useAppConfig();
 
 useSeoMeta({
-  title: page.value?.title,
+  title: `${page.value?.title} | ${config.value.site.name}`,
   description: page.value?.description,
 
   ogType: page.value?.ogType,

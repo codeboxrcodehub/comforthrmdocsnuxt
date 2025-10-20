@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/code-samples"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Code Samples for Comfort Resume"
+description: "Browse practical code samples and examples for Comfort Resume. Get ready-to-use code snippets for custom resume functions, integrations, and advanced resume management customization."
+
+ogType: "article"
+ogTitle: "Code Samples for Comfort Resume"
+ogDescription: "Browse practical code samples and examples for Comfort Resume. Get ready-to-use code snippets for custom resume functions, integrations, and advanced resume management customization."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/code-samples"
+
+twitterCard: "article"
+twitterTitle: "Code Samples for Comfort Resume"
+twitterDescription: "Browse practical code samples and examples for Comfort Resume. Get ready-to-use code snippets for custom resume functions, integrations, and advanced resume management customization."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/code-samples"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume code samples, resume code examples, PHP snippets, custom resume functions, integration code, API usage, developer examples, resume customization, template code, hook implementations"
 ---
 
 # Comfort Resume Plugin – Code Samples

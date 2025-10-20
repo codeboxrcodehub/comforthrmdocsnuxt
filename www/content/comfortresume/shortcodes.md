@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/shortcodes"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Shortcodes for Comfort Resume"
+description: "Complete guide to Comfort Resume shortcodes. Learn how to display resume content, candidate profiles, application forms, and resume listings anywhere on your site using WordPress shortcodes."
+
+ogType: "article"
+ogTitle: "Shortcodes for Comfort Resume"
+ogDescription: "Complete guide to Comfort Resume shortcodes. Learn how to display resume content, candidate profiles, application forms, and resume listings anywhere on your site using WordPress shortcodes."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/shortcodes"
+
+twitterCard: "article"
+twitterTitle: "Shortcodes for Comfort Resume"
+twitterDescription: "Complete guide to Comfort Resume shortcodes. Learn how to display resume content, candidate profiles, application forms, and resume listings anywhere on your site using WordPress shortcodes."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/shortcodes"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume shortcodes, resume shortcodes, HRM shortcodes, resume display, candidate profiles, resume forms, application forms, resume listings, shortcode examples, resume management"
 ---
 # Shortcodes
 

@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Resume"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortresume/classic-widgets"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Classic Widgets for Comfort Resume"
+description: "Learn how to use Comfort Resume classic widgets to display resume information in sidebars. Show recent resumes, candidate profiles, and job applicant data anywhere on your site."
+
+ogType: "article"
+ogTitle: "Classic Widgets for Comfort Resume"
+ogDescription: "Learn how to use Comfort Resume classic widgets to display resume information in sidebars. Show recent resumes, candidate profiles, and job applicant data anywhere on your site."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortresume/classic-widgets"
+
+twitterCard: "article"
+twitterTitle: "Classic Widgets for Comfort Resume"
+twitterDescription: "Learn how to use Comfort Resume classic widgets to display resume information in sidebars. Show recent resumes, candidate profiles, and job applicant data anywhere on your site."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-resume-wordpress-resume-builder-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortresume/classic-widgets"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Resume classic widgets, resume widgets, sidebar widgets, candidate display, recent resumes, job applicant widgets, WordPress widgets, frontend resume display, resume management widgets"
 ---
 # Classic Widgets
 

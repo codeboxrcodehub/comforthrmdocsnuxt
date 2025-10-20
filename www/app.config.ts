@@ -90,6 +90,19 @@ export default defineAppConfig({
           ],
         },
         {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortresume/user-guide/general' },
+            { text: 'Resume Manager', link: '/comfortresume/user-guide/resume-manager' },
+            { text: 'Settings Manager', link: '/comfortresume/user-guide/settings' },
+            { text: 'Resume Category', link: '/comfortresume/user-guide/resume-category' },
+            { text: 'Resume Tags', link: '/comfortresume/user-guide/resume-tags' },
+            { text: 'Tools Manager', link: '/comfortresume/user-guide/tools-manager' },
+            { text: 'Emails', link: '/comfortresume/user-guide/emails' },
+          ],
+        },
+        {
           text: 'Shortcode',
           collapsible: true,
           items: [
@@ -103,19 +116,6 @@ export default defineAppConfig({
             { text: 'Classic Widgets', link: '/comfortresume/classic-widgets' },
             { text: 'Elementor Widget', link: '/comfortresume/elementor-widgets' },
             { text: 'Gutenberg Blocks', link: '/comfortresume/gutenberg-blocks' },
-          ],
-        },
-        {
-          text: 'User Guide',
-          collapsible: true,
-          items: [
-            { text: 'General', link: '/comfortresume/user-guide/general' },
-            { text: 'Resume Manager', link: '/comfortresume/user-guide/resume-manager' },
-            { text: 'Settings Manager', link: '/comfortresume/user-guide/settings' },
-            { text: 'Resume Category', link: '/comfortresume/user-guide/resume-category' },
-            { text: 'Resume Tags', link: '/comfortresume/user-guide/resume-tags' },
-            { text: 'Tools Manager', link: '/comfortresume/user-guide/tools-manager' },
-            { text: 'Emails', link: '/comfortresume/user-guide/emails' },
           ],
         }
       ],
@@ -133,6 +133,21 @@ export default defineAppConfig({
           ],
         },
         {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortjob/user-guide/general' },
+            { text: 'Job Manager', link: '/comfortjob/user-guide/job-manager' },
+            { text: 'Settings Manager', link: '/comfortjob/user-guide/settings' },
+            { text: 'Company Manager', link: '/comfortjob/user-guide/company-manager' },
+            { text: 'Job Category', link: '/comfortjob/user-guide/job-category' },
+            { text: 'Job Type', link: '/comfortjob/user-guide/job-type' },
+            { text: 'Job Tags', link: '/comfortjob/user-guide/job-tags' },
+            { text: 'Tools Manager', link: '/comfortjob/user-guide/tools-manager' },
+            { text: 'Emails', link: '/comfortjob/user-guide/emails' },
+          ],
+        },
+        {
           text: 'Shortcode',
           collapsible: true,
           items: [
@@ -146,21 +161,6 @@ export default defineAppConfig({
             { text: 'Classic Widgets', link: '/comfortjob/classic-widgets' },
             { text: 'Elementor Widget', link: '/comfortjob/elementor-widgets' },
             { text: 'Gutenberg Blocks', link: '/comfortjob/gutenberg-blocks' },
-          ],
-        },
-        {
-          text: 'User Guide',
-          collapsible: true,
-          items: [
-            { text: 'General', link: '/comfortjob/user-guide/general' },
-            { text: 'Job Manager', link: '/comfortjob/user-guide/job-manager' },
-            { text: 'Settings Manager', link: '/comfortjob/user-guide/settings' },
-            { text: 'Company Manager', link: '/comfortjob/user-guide/company-manager' },
-            { text: 'Job Category', link: '/comfortjob/user-guide/job-category' },
-            { text: 'Job Type', link: '/comfortjob/user-guide/job-type' },
-            { text: 'Job Tags', link: '/comfortjob/user-guide/job-tags' },
-            { text: 'Tools Manager', link: '/comfortjob/user-guide/tools-manager' },
-            { text: 'Emails', link: '/comfortjob/user-guide/emails' },
           ],
         }
       ],
