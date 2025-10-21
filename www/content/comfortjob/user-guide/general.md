@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "Comfort Job index keywords."
-url: "/comfortjob/user-guide/general"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job User Guide"
+description: "Complete user guide for Comfort Job plugin. Learn general settings, dashboard overview, and essential configuration to set up and manage your WordPress job board effectively."
 
+ogType: "article"
+ogTitle: "Comfort Job User Guide"
+ogDescription: "Complete user guide for Comfort Job plugin. Learn general settings, dashboard overview, and essential configuration to set up and manage your WordPress job board effectively."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/user-guide/general"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job User Guide"
+twitterDescription: "Complete user guide for Comfort Job plugin. Learn general settings, dashboard overview, and essential configuration to set up and manage your WordPress job board effectively."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/user-guide/general"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job user guide, job board management, WordPress job plugin tutorial, general settings, job board configuration, plugin overview, getting started guide, job posting basics, admin dashboard, plugin features"
 ---
 
 # Comfort Job User Guide

@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/user-guide/company-manager"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Company Manager"
+description: "Manage employer profiles and company information with Comfort Job Company Manager. Complete guide to company listings, employer accounts, verification, and business directory setup."
 
+ogType: "article"
+ogTitle: "Comfort Job Company Manager"
+ogDescription: "Manage employer profiles and company information with Comfort Job Company Manager. Complete guide to company listings, employer accounts, verification, and business directory setup."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/user-guide/company-manager"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Company Manager"
+twitterDescription: "Manage employer profiles and company information with Comfort Job Company Manager. Complete guide to company listings, employer accounts, verification, and business directory setup."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/user-guide/company-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job company manager, employer profiles, company management, employer accounts, company listings, employer dashboard, company profiles, business directory, employer verification, company settings"
 ---
 
 ### Managing Company (Pro plugin feature)

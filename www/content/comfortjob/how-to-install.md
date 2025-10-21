@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/how-to-install"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Plugin Installation Guide"
+description: "Step-by-step guide to install and setup Comfort Job plugin on WordPress. Learn how to create a professional job board and manage listings easily. Complete installation tutorial for beginners."
+
+ogType: "article"
+ogTitle: "Comfort Job Plugin Installation Guide"
+ogDescription: "Step-by-step guide to install and setup Comfort Job plugin on WordPress. Learn how to create a professional job board and manage listings easily. Complete installation tutorial for beginners."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/how-to-install"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Plugin Installation Guide"
+twitterDescription: "Step-by-step guide to install and setup Comfort Job plugin on WordPress. Learn how to create a professional job board and manage listings easily. Complete installation tutorial for beginners."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/how-to-install"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job plugin, WordPress job board, install job plugin, job listing setup, employment website, recruitment plugin, WordPress job manager, job board installation, HR plugin, career portal"
 ---
 # How to Install
 

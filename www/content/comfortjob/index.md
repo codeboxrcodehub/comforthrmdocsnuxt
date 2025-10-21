@@ -1,16 +1,16 @@
 ---
-title: "Comfort Job – Powerful Job Board &amp; Listings Plugin for WordPress"
+title: "Comfort Job – Powerful Job Board & Listings Plugin for WordPress"
 description: "Create, submit, and display job listings with ease using Comfort Job. A full-featured WordPress job board plugin and a modern alternative to WP Job Manager. Perfect for recruiters, HR sites, and job portals."
 
 ogType: "article"
-ogTitle: "Comfort Job – Powerful Job Board &amp; Listings Plugin for WordPress"
+ogTitle: "Comfort Job – Powerful Job Board & Listings Plugin for WordPress"
 ogDescription: "Create, submit, and display job listings with ease using Comfort Job. A full-featured WordPress job board plugin and a modern alternative to WP Job Manager. Perfect for recruiters, HR sites, and job portals."
 ogSiteName: "Comfort HRM Documentation"
 ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
 ogUrl: "https://docs.comforthrm.com/comfortjob/"
 
 twitterCard: "article"
-twitterTitle: "Comfort Job – Powerful Job Board &amp; Listings Plugin for WordPress"
+twitterTitle: "Comfort Job – Powerful Job Board & Listings Plugin for WordPress"
 twitterDescription: "Create, submit, and display job listings with ease using Comfort Job. A full-featured WordPress job board plugin and a modern alternative to WP Job Manager. Perfect for recruiters, HR sites, and job portals."
 twitterSite: "@ComfortHRM"
 twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"

@@ -1,15 +1,26 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/template-override"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
----
-# How to Override Template
+title: "Comfort Job Template Override Guide"
+description: "Learn how to override Comfort Job plugin templates to customize your job board design. Step-by-step guide for template modification and theme integration without losing changes on updates."
 
+ogType: "article"
+ogTitle: "Comfort Job Template Override Guide"
+ogDescription: "Learn how to override Comfort Job plugin templates to customize your job board design. Step-by-step guide for template modification and theme integration without losing changes on updates."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/template-override"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Template Override Guide"
+twitterDescription: "Learn how to override Comfort Job plugin templates to customize your job board design. Step-by-step guide for template modification and theme integration without losing changes on updates."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/template-override"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job template override, customize job board, WordPress template customization, job listing design, theme override, template files, PHP templates, CSS customization, job board styling, plugin templates"
+---
+
+# How to Override Template
 
 We have implemented woocommerce like template override system which means, you can override any template/view layer of this plugin in your theme. For this plugin, mainly admin interfaces of custom screens can be overridden. The frontend tour modals cannot be overridden as they load using JavaScript.
 

@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/shortcodes"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Shortcodes Guide"
+description: "Complete guide to Comfort Job plugin shortcodes. Learn how to display job listings, categories, and applications anywhere on your site using simple shortcodes with customizable parameters."
+
+ogType: "article"
+ogTitle: "Comfort Job Shortcodes Guide"
+ogDescription: "Complete guide to Comfort Job plugin shortcodes. Learn how to display job listings, categories, and applications anywhere on your site using simple shortcodes with customizable parameters."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/shortcodes"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Shortcodes Guide"
+twitterDescription: "Complete guide to Comfort Job plugin shortcodes. Learn how to display job listings, categories, and applications anywhere on your site using simple shortcodes with customizable parameters."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/shortcodes"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job shortcodes, WordPress job shortcodes, display job listings, job board shortcodes, shortcode parameters, job listing display, embed jobs, page builder integration"
 ---
 # Shortcodes
 

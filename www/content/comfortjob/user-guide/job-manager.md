@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/user-guide/job-manager"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Manager Guide"
+description: "Learn how to manage job listings, applications, and applicants with Comfort Job Manager. Complete guide to job moderation, status management, and applicant tracking system."
 
+ogType: "article"
+ogTitle: "Comfort Job Manager Guide"
+ogDescription: "Learn how to manage job listings, applications, and applicants with Comfort Job Manager. Complete guide to job moderation, status management, and applicant tracking system."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/user-guide/job-manager"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Manager Guide"
+twitterDescription: "Learn how to manage job listings, applications, and applicants with Comfort Job Manager. Complete guide to job moderation, status management, and applicant tracking system."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/user-guide/job-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job manager, job listing management, WordPress job manager, manage job posts, job applications, applicant tracking, job status, job moderation, bulk actions, job dashboard, employment management"
 ---
 
 ## Managing Job Listings

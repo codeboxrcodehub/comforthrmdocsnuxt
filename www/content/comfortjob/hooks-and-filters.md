@@ -1,14 +1,24 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/hooks-and-filters"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
----
+title: "Comfort Job Hooks & Filters Guide"
+description: "Complete guide to Comfort Job plugin hooks and filters. Learn how to extend functionality, modify behavior, and add custom features to your job board using WordPress actions and filters."
 
+ogType: "article"
+ogTitle: "Comfort Job Hooks & Filters Guide"
+ogDescription: "Complete guide to Comfort Job plugin hooks and filters. Learn how to extend functionality, modify behavior, and add custom features to your job board using WordPress actions and filters."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/hooks-and-filters"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Hooks & Filters Guide"
+twitterDescription: "Complete guide to Comfort Job plugin hooks and filters. Learn how to extend functionality, modify behavior, and add custom features to your job board using WordPress actions and filters."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/hooks-and-filters"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job hooks, WordPress filters, job plugin customization, action hooks, filter hooks, extend job board, custom functions, PHP snippets, plugin development, job board modifications, custom fields integration"
+---
 
 Comfort Job provides a variety of hooks and filters that allow developers to customize and extend the plugin's functionality. These hooks and filters can be used to modify the behavior of the plugin, add new features, or integrate with other plugins or themes.
 
