@@ -1,16 +1,16 @@
 ---
-title: "Comfort Job Application – WordPress Job Application Form &amp; Management Plugin"
+title: "Comfort Job Application – WordPress Job Application Form & Management Plugin"
 description: "Accept and manage job applications directly from your WordPress site with Comfort Job Application. A powerful plugin that works with or without a job board. Create application forms, collect resumes, and streamline hiring easily."
 
 ogType: "article"
-ogTitle: "Comfort Job Application – WordPress Job Application Form &amp; Management Plugin"
+ogTitle: "Comfort Job Application – WordPress Job Application Form & Management Plugin"
 ogDescription: "Accept and manage job applications directly from your WordPress site with Comfort Job Application. A powerful plugin that works with or without a job board. Create application forms, collect resumes, and streamline hiring easily."
 ogSiteName: "Comfort HRM Documentation"
 ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
 ogUrl: "https://docs.comforthrm.com/comfortjobapp/"
 
 twitterCard: "article"
-twitterTitle: "Comfort Job Application – WordPress Job Application Form &amp; Management Plugin"
+twitterTitle: "Comfort Job Application – WordPress Job Application Form & Management Plugin"
 twitterDescription: "Accept and manage job applications directly from your WordPress site with Comfort Job Application. A powerful plugin that works with or without a job board. Create application forms, collect resumes, and streamline hiring easily."
 twitterSite: "@ComfortHRM"
 twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"

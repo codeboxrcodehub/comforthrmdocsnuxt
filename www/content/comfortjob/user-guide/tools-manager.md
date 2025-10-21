@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/user-guide/tools-manager"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Tools Manager"
+description: "Manage job data with Comfort Job Tools Manager. Learn how to import/export jobs via CSV, run system diagnostics, and use administrative utilities for job board maintenance."
 
+ogType: "article"
+ogTitle: "Comfort Job Tools Manager"
+ogDescription: "Manage job data with Comfort Job Tools Manager. Learn how to import/export jobs via CSV, run system diagnostics, and use administrative utilities for job board maintenance."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/user-guide/tools-manager"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Tools Manager"
+twitterDescription: "Manage job data with Comfort Job Tools Manager. Learn how to import/export jobs via CSV, run system diagnostics, and use administrative utilities for job board maintenance."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/user-guide/tools-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job tools, job data import, job export, CSV import, system tools, plugin utilities, data management, bulk operations, system status, debug tools, database management"
 ---
 
 # Tools Manager

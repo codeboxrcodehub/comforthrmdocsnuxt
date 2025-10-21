@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/classic-widgets"
-type: "article"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Classic Widgets"
+description: "Guide to Comfort Job classic widgets for displaying job listings, search filters, and categories in WordPress sidebars. Learn widget configuration and placement options."
+
+ogType: "article"
+ogTitle: "Comfort Job Classic Widgets"
+ogDescription: "Guide to Comfort Job classic widgets for displaying job listings, search filters, and categories in WordPress sidebars. Learn widget configuration and placement options."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/classic-widgets"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Classic Widgets"
+twitterDescription: "Guide to Comfort Job classic widgets for displaying job listings, search filters, and categories in WordPress sidebars. Learn widget configuration and placement options."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/classic-widgets"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job widgets, WordPress job widgets, classic widgets, sidebar job listings, job search widget, job categories widget, recent jobs widget, widget areas, job filters, sidebar placement, job board widgets"
 ---
 # Classic Widgets
 

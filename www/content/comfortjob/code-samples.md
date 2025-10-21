@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/code-samples"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Code Samples"
+description: "Collection of ready-to-use Comfort Job plugin code samples and snippets. Get practical PHP examples, shortcodes, and template functions to customize and extend your job board functionality."
+
+ogType: "article"
+ogTitle: "Comfort Job Code Samples"
+ogDescription: "Collection of ready-to-use Comfort Job plugin code samples and snippets. Get practical PHP examples, shortcodes, and template functions to customize and extend your job board functionality."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/code-samples"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Code Samples"
+twitterDescription: "Collection of ready-to-use Comfort Job plugin code samples and snippets. Get practical PHP examples, shortcodes, and template functions to customize and extend your job board functionality."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/code-samples"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job code examples, WordPress job board snippets, PHP code samples, job plugin snippets, custom shortcodes, template functions, hook implementations, developer examples, job listing code, customization snippets"
 ---
 
 # Comfort Job Plugin – Code Samples

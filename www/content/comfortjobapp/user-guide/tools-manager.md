@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "comfort job application, wordpress, wordpress job application plugin, plugin"
-url: "/comfortjobapp/user-guide/tools-manager"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application Tools Manager"
+description: "Manage Comfort Job application with built-in tools and utilities. Complete guide to system maintenance, data management, diagnostics, and performance optimization tools for application management."
 
+ogType: "article"
+ogTitle: "Comfort Job Application Tools Manager"
+ogDescription: "Manage Comfort Job application with built-in tools and utilities. Complete guide to system maintenance, data management, diagnostics, and performance optimization tools for application management."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/tools-manager"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application Tools Manager"
+twitterDescription: "Manage Comfort Job application with built-in tools and utilities. Complete guide to system maintenance, data management, diagnostics, and performance optimization tools for application management."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/tools-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application tools, system utilities, application maintenance, data management, system diagnostics, cleanup tools, backup utilities, cache management, debug tools, performance optimization"
 ---
 
 # Tools Manager

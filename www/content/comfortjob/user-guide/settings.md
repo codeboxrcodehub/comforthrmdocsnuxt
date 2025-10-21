@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/user-guide/settings"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Settings Guide"
+description: "Complete guide to Comfort Job plugin settings and configuration. Learn how to set up pages, configure permalinks, email notifications, and customize job board behavior and preferences."
 
+ogType: "article"
+ogTitle: "Comfort Job Settings Guide"
+ogDescription: "Complete guide to Comfort Job plugin settings and configuration. Learn how to set up pages, configure permalinks, email notifications, and customize job board behavior and preferences."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/user-guide/settings"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Settings Guide"
+twitterDescription: "Complete guide to Comfort Job plugin settings and configuration. Learn how to set up pages, configure permalinks, email notifications, and customize job board behavior and preferences."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/user-guide/settings"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job settings, job board configuration, plugin settings, general options, page setup, permalinks, email notifications, application settings, display options, job submission, admin configuration"
 ---
 
 # Comfort Job User Guide

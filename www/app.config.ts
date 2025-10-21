@@ -79,7 +79,7 @@ export default defineAppConfig({
 
       '/comfortresume/': [
         {
-          text: 'Comfort Accounting',
+          text: 'Comfort Resume',
           collapsible: true,
           items: [
             { text: 'How to install', link: '/comfortresume/how-to-install' },

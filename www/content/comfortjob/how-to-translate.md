@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Documentation"
-description: "Documentation for Comfort Job"
-keywords: "comfort job, wordpress, wordpress job plugin, plugin"
-url: "/comfortjob/how-to-translate"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Plugin Translation Guide"
+description: "Complete guide to translate Comfort Job plugin into any language. Learn how to use Loco Translate and language files to create a multilingual job board for global audiences."
+
+ogType: "article"
+ogTitle: "Comfort Job Plugin Translation Guide"
+ogDescription: "Complete guide to translate Comfort Job plugin into any language. Learn how to use Loco Translate and language files to create a multilingual job board for global audiences."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-wordpress-job-board-plugin.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjob/how-to-translate"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Plugin Translation Guide"
+twitterDescription: "Complete guide to translate Comfort Job plugin into any language. Learn how to use Loco Translate and language files to create a multilingual job board for global audiences."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-wordpress-job-board-plugin.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjob/how-to-translate"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job translation, multilingual job board, translate job plugin, WordPress plugin translation, Loco Translate, PO files, MO files, job board localization, multi-language job site, international job portal"
 ---
 # How to Translate
 

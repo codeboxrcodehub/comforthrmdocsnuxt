@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "Comfort Job Application index keywords."
-url: "/comfortjobapp/user-guide/general"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application User Guide"
+description: "Complete user guide for Comfort Job application. Learn general features, navigation, and basic setup to get started with the job board application effectively."
 
+ogType: "article"
+ogTitle: "Comfort Job Application User Guide"
+ogDescription: "Complete user guide for Comfort Job application. Learn general features, navigation, and basic setup to get started with the job board application effectively."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/general"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application User Guide"
+twitterDescription: "Complete user guide for Comfort Job application. Learn general features, navigation, and basic setup to get started with the job board application effectively."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/general"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application guide, application overview, getting started, user manual, application features, general settings, application navigation, user interface, dashboard overview, application basics"
 ---
 
 # Comfort Job Application User Guide

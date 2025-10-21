@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortjobapp/user-guide/emails"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application Email Settings"
+description: "Configure email notifications and communication settings in Comfort Job Application. Complete guide to email templates, notification preferences, and SMTP configuration for application alerts."
 
+ogType: "article"
+ogTitle: "Comfort Job Application Email Settings"
+ogDescription: "Configure email notifications and communication settings in Comfort Job Application. Complete guide to email templates, notification preferences, and SMTP configuration for application alerts."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/emails"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application Email Settings"
+twitterDescription: "Configure email notifications and communication settings in Comfort Job Application. Complete guide to email templates, notification preferences, and SMTP configuration for application alerts."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/emails"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application emails, email notifications, application alerts, email templates, notification settings, email configuration, SMTP setup, email preferences, communication settings, alert system"
 ---
 
 ## Email System

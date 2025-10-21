@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "comfort job application, wordpress, wordpress job application plugin, plugin"
-url: "/comfortjobapp/code-samples"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application Code Samples"
+description: "Collection of ready-to-use Comfort Job application code samples and examples. Get practical code snippets, API integrations, and component examples for application development and customization."
 
+ogType: "article"
+ogTitle: "Comfort Job Application Code Samples"
+ogDescription: "Collection of ready-to-use Comfort Job application code samples and examples. Get practical code snippets, API integrations, and component examples for application development and customization."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/code-samples"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application Code Samples"
+twitterDescription: "Collection of ready-to-use Comfort Job application code samples and examples. Get practical code snippets, API integrations, and component examples for application development and customization."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/code-samples"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application code, code examples, application snippets, development samples, API integration, component code, functionality examples, customization code, plugin extensions, application development"
 ---
 
 # Code Samples for ComfortJobApp & ComfortJobAppPro
