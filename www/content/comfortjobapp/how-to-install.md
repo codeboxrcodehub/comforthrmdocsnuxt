@@ -1,14 +1,25 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "comfort job application, wordpress, wordpress job application plugin, plugin"
-url: "/comfortjobapp/how-to-install"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application Installation"
+description: "Complete step-by-step guide to install and deploy Comfort Job application. Learn system requirements, installation process, and initial configuration for successful application setup."
 
+ogType: "article"
+ogTitle: "Comfort Job Application Installation"
+ogDescription: "Complete step-by-step guide to install and deploy Comfort Job application. Learn system requirements, installation process, and initial configuration for successful application setup."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/how-to-install"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application Installation"
+twitterDescription: "Complete step-by-step guide to install and deploy Comfort Job application. Learn system requirements, installation process, and initial configuration for successful application setup."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/how-to-install"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application install, application setup, deployment guide, installation tutorial, application configuration, setup process, system requirements, installation steps, application deployment, server setup"
 ---
+
 # How to Install
 
 The core plugin name is **“Comfort Job Application”** and our pro addon name is **“Comfort Job Application Pro Addon”**.

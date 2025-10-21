@@ -1,12 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "comfort job application, wordpress, wordpress job application plugin, plugin"
-url: "/comfortjobapp/hooks-and-filters"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application Hooks & Filters"
+description: "Learn how to use hooks and filters to extend Comfort Job application functionality. Complete guide to customizing application behavior, adding features, and modifying core processes through hooks system."
+
+ogType: "article"
+ogTitle: "Comfort Job Application Hooks & Filters"
+ogDescription: "Learn how to use hooks and filters to extend Comfort Job application functionality. Complete guide to customizing application behavior, adding features, and modifying core processes through hooks system."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/hooks-and-filters"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application Hooks & Filters"
+twitterDescription: "Learn how to use hooks and filters to extend Comfort Job application functionality. Complete guide to customizing application behavior, adding features, and modifying core processes through hooks system."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/hooks-and-filters"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application hooks, application filters, functionality extension, custom hooks, event filters, application customization, plugin extensions, action hooks, filter hooks, application development"
 ---
 # Hooks and Filters Documentation for ComfortJobApp & ComfortJobAppPro
 

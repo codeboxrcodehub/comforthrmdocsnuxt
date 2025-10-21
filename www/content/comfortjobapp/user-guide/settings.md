@@ -1,13 +1,23 @@
 ---
-title: "Comfort Job Application Documentation"
-description: "Documentation for Comfort Job Application"
-keywords: "comfort resume, wordpress, wordpress resume plugin, plugin"
-url: "/comfortjobapp/user-guide/settings"
-type: "type"
-site_name: "Comfort HRM"
-image: "https://comforthrm.com/assets/images/seo.png"
-card: "article"
+title: "Comfort Job Application Settings"
+description: "Configure Comfort Job application settings and preferences. Complete guide to application configuration, notification setup, display options, and system customization for optimal user experience."
 
+ogType: "article"
+ogTitle: "Comfort Job Application Settings"
+ogDescription: "Configure Comfort Job application settings and preferences. Complete guide to application configuration, notification setup, display options, and system customization for optimal user experience."
+ogSiteName: "Comfort HRM Documentation"
+ogImage: "/comfort-job-application-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/settings"
+
+twitterCard: "article"
+twitterTitle: "Comfort Job Application Settings"
+twitterDescription: "Configure Comfort Job application settings and preferences. Complete guide to application configuration, notification setup, display options, and system customization for optimal user experience."
+twitterSite: "@ComfortHRM"
+twitterImage: "/comfort-job-application-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforthrm.com/comfortjobapp/user-guide/settings"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Job application settings, application configuration, preferences setup, application options, system settings, user preferences, notification settings, display options, security settings, application customization"
 ---
 
 # Comfort Job Application User Guide

@@ -56,7 +56,8 @@ const sidebarItems = computed(() => {
       ])
   );
 
-  const key = Object.keys(normalizedConfig).find((k) => path.startsWith(k));
+  const key = Object.keys(normalizedConfig).filter(k => path.startsWith(k)).sort((a, b) => b.length - a.length)[0];
+
   return key ? normalizedConfig[key] : [];
 });
 
